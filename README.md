@@ -3,6 +3,7 @@ Say you backed up your Wii game in WBFS format to a flash drive, and you renamed
 
 # Building
 I built it with Visual Studio 2013, target system: Windows 32-bit<br>
+C++, using std::string & std::fstream<br>
 No additional libs/dependencies, super short & sweet
 
 
